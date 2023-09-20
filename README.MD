@@ -1,0 +1,1 @@
+I created this repo to save my practices and studies about Web Scraping with Python's book (Ryan Mitchell). 
